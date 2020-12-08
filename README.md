@@ -12,7 +12,7 @@ The repository introduces a project of Airline Big Data Management using the dat
 6. Logistic Regression
 
 ## Accuracy Results Comparison
-Big-Data-and-Information-System-IS-669/blob/master/acc.png
+https://github.com/akshayjadhav21/Big-Data-and-Information-System-IS-669/blob/master/acc.png?raw=true
 
 ## Platforms
 EC2 Server(AWS), Jupyter Notebooks
