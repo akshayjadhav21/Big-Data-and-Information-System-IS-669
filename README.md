@@ -11,6 +11,9 @@ The repository introduces a project of Airline Big Data Management using the dat
 5. KNN
 6. Logistic Regression
 
+## Accuracy Results Comparison
+acc.png
+
 ## Platforms
 EC2 Server(AWS), Jupyter Notebooks
 
