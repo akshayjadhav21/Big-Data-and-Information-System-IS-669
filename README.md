@@ -1,4 +1,4 @@
-# Big-Data-and-Information-System-IS-669
+# Big-Data-and-Information-System-IS-669-Airline Big Data Management
 
 ## Introduction
 The repository introduces a project of Airline Big Data Management using the dataset of Airline Carriers on EC2 Server (AWS Service) to explore the big data management on cloud computing platform.  Also, project phases includes the various tasks such as loading big data using Pig or Hive in HDFS, data analysis and visualization of airline delay data to find valuable insights, building best predictive or machine learning algorithms to identify delayed airline carriers to further provide best plan of action to optimize the delay intervals based on predictive results.
